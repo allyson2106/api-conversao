@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KubeDev/api-conversao/issues"
+    "url": "https://github.com/allyson2106/api-conversao/issues"
   },
-  "homepage": "https://github.com/KubeDev/api-conversao#readme",
+  "homepage": "https://github.com/allyson2106/api-conversao#readme",
   "dependencies": {
     "express": "^4.17.1",
     "swagger-ui-express": "^4.1.4",
